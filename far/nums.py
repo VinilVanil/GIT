@@ -3,7 +3,7 @@ def plus(a, b):
 
 
 def minus(a, b):
-    reyurn a - b
+    return a - b
 
 
 text = "new text"
