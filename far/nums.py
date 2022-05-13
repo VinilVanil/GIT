@@ -12,6 +12,10 @@ def delit(a, b):
         return b/a
 
 
+
+
+
+
 text = "new text"
 if __name__ == '__main__':
     print(plus(2, 4))
